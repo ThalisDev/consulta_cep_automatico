@@ -7,6 +7,8 @@ Para usar basta executar o codigo em alguma IDE python (pycharm, visual studio)
 - execute o programa e entre na rota localhost
 - digite o cep e pule para outro campo e ele automaticamente ira fazer a consulta na API viacep
 - ✨Magic ✨
+- Pagina Inicial
+![pagina inicial](https://i.imgur.com/V0c1whi.png)
 
 ## Observações
 - tentei fazer a consulta diretamente pelas rotas do flask mas a biblioteca da API viacep para flask apresentou falhas e não executava de forma alguma então execute por javascript
